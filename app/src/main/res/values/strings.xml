@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PetgramMascotas</string>
+    <string name="applicacion_name">Petagram</string>
+    <string name="tituloActivityMF"> Top 5 mascotas favoritas</string>
+    <string name="nombre_mascota">Firulais</string>
+    <string name="numero_likes">5</string>
+    <string name="pnombre">Nombre</string>
+    <string name="pNLikes">NumeroLikes</string>
+    <string name="imagenhueso">imagen hueso</string>
+    <string name="btnHueso">boton hueso</string>
+    <string name="btnFavorito">imagen estrella negra con un 5 adentro</string>
+    <string name="fotoperro">fotos de perros de distinas razas</string>
+    <string name="mAcercaDe">Acerca de</string>
+    <string name="mContacto">Contacto</string>
+    <string name="texto_tit_acercade">Acerca de:</string>
+    <string name="texto_nombre_desar">Esta aplicación fue desarrollada por Florencia Olivieri.</string>
+    <string name="texto_tit_contacto">Contáctame</string>
+    <string name="edtNombre">Nombre</string>
+    <string name="edtCorreo">Correo electrónico</string>
+    <string name="edtComentario">Comentario</string>
+    <string name="btn_enviar_comentario">Enviar comentario</string>
+    <string name="nombre_perfil">Lupe</string>
+
+
+</resources>
